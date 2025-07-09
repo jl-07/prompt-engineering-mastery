@@ -22,8 +22,6 @@ In this portfolio, you will find the practical application of concepts such as:
 
 This repository is organized to facilitate the exploration of each prompt and its technical analysis:
 
-Com certeza! Aqui está o seu README.md traduzido para o inglês e o espanhol, mantendo a formatação e o estilo originais.
-
 Versão em Inglês
 Markdown
 
