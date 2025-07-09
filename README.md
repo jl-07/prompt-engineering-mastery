@@ -8,7 +8,6 @@ My approach is based on advanced prompt engineering techniques, aiming not just 
 - [Highlighted Skills and Methodologies](#highlighted-skills-and-methodologies)
 - [Prompts](#prompts)
 - [License](#license)
-- [About Me](#about-me) (if you plan to add this section)
 
 ### 💡 Highlighted Skills and Methodologies
 In this portfolio, you will find the practical application of concepts such as:
