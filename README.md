@@ -1,22 +1,30 @@
-🌟 Prompt Engineering Mastery: Júnior Lira's Portfolio 🌟
+# 🌟 Prompt Engineering Mastery: Júnior Lira's Portfolio 🌟
 
-✨ Modeling Intelligence: A Symphony of Advanced Prompts ✨
+## ✨ Modeling Intelligence: A Symphony of Advanced Prompts ✨
 
 Welcome to my Prompt Engineering portfolio. This repository is a practical demonstration of my expertise in the art and science of crafting optimized instructions for Large Language Models (LLMs). Here, the complexity of challenges meets the elegance of solutions, transforming intentions into precise and impactful results.
 
 My approach is based on advanced prompt engineering techniques, aiming not just to generate responses, but to orchestrate AI behavior to solve complex problems and deliver strategic value.
 
-💡 **Highlighted Skills and Methodologies**
+### Table of Contents
+- [Highlighted Skills and Methodologies](#highlighted-skills-and-methodologies)
+- [Prompts](#prompts)
+- [License](#license)
+- [About Me](#about-me) (if you plan to add this section)
 
+### 💡 Highlighted Skills and Methodologies
 In this portfolio, you will find the practical application of concepts such as:
+- **Chain-of-Thought (CoT):** Guiding the AI through step-by-step reasoning for complex tasks.
+- **Few-Shot Learning:** Providing carefully selected examples to refine AI behavior and tone.
+- **Role-Playing Prompts:** Assigning specific personas to the AI for targeted responses.
+- **Iterative Prompt Refinement:** Techniques for continuous improvement of prompts.
+- **Error Handling and Robustness:** Strategies to minimize AI hallucinations and improve reliability.
 
-* **Chain-of-Thought (CoT):** Guiding the AI through step-by-step reasoning for complex tasks.
-* **Few-Shot Learning:** Providing carefully selected examples to refine AI behavior and tone.
-* **Persona Prompting:** Assigning identities and specializations to the AI for more authoritative responses.
-* **Prompt Chaining:** Combining multiple prompts to create sophisticated workflows.
-* **Self-Correction / Self-Consistency:** Designing prompts that allow the AI to validate and refine its own outputs.
-* **Structured Output:** Defining precise output formats (JSON, Markdown) to facilitate downstream processing.
-* **Meta-Prompting:** Creating prompts that define the AI's own behavior in user interaction.
+### Prompts
+This section will contain various examples of engineered prompts.
+
+### License
+This project is licensed under the MIT License.
 
 📂 **Portfolio Structure**
 
