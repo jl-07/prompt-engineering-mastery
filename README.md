@@ -1,6 +1,4 @@
-# 🌟 Prompt Engineering Mastery: Júnior Lira's Portfolio 🌟
-
-## ✨ Modeling Intelligence: A Symphony of Advanced Prompts ✨
+✨ Modeling Intelligence: A Symphony of Advanced Prompts ✨
 
 Welcome to my Prompt Engineering portfolio. This repository is a practical demonstration of my expertise in the art and science of crafting optimized instructions for Large Language Models (LLMs). Here, the complexity of challenges meets the elegance of solutions, transforming intentions into precise and impactful results.
 
