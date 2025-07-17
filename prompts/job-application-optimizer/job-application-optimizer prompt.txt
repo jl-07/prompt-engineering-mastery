@@ -1,5 +1,3 @@
-prompts/job-application-optimizer/prompt.txt
-
 ---
 
 ## 🇺🇸 ENGLISH VERSION
