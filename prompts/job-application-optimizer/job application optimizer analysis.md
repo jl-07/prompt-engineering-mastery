@@ -55,12 +55,12 @@ This prompt is built on an architecture of **advanced prompt engineering and met
 ## 🔗 The Prompt
 
 You can find the complete prompt in this repository:
-[prompt.txt](./prompt.txt)
+[prompt.txt](./job-application-optimizer/job-application-optimizer%20prompt.txt)
 
 ## 📄 Example Output
 
 To demonstrate the capabilities of this prompt, see an example output (simulated) for a specific job:
-[output-example-1.md](./output-example-1.md)
+[output-example-1.md](./job-application-optimizer/output-example-1.md)
 
 ---
 
@@ -116,12 +116,11 @@ Este prompt é construído sobre uma arquitetura de **meta-prompting e engenhari
 ## 🔗 O Prompt
 
 Você pode encontrar o prompt completo neste repositório:
-[prompt.txt](./prompt.txt)
-
+[prompt.txt](./job-application-optimizer/job-application-optimizer%20prompt.txt)
 ## 📄 Exemplo de Saída Gerada
 
 Para demonstrar a capacidade deste prompt, veja um exemplo de saída (simulada) para uma vaga específica:
-[output-example-1.md](./output-example-1.md)
+[output-example-1.md](./job-application-optimizer/output-example-1.md)
 
 ---
 
