@@ -86,6 +86,17 @@ Explore the technical depth of each prompt, understanding the challenge, the eng
 
 ---
 
+🚀 Roadmap / Next Steps
+Visual demos (GIFs/videos) of key features
+
+Interactive API docs (Swagger UI)
+
+Full automated tests
+
+Production deployment of API examples
+
+AI metrics: accuracy, hallucination reduction, token/cost optimization, UX improvement
+
 ### 🤝 Connect
 
 Open for discussions on prompt engineering, collaborations, or technical challenges. Feel free to explore, test the prompts, and share your feedback.
