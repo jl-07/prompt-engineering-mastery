@@ -1,4 +1,6 @@
-# 🌟 Prompt Engineering Mastery: Portfolio de Júnior Lira 🌟
+Markdown
+
+# 🌟 Prompt Engineering Mastery: Portfólio de Júnior Lira 🌟
 
 ## ✨ Modelando a Inteligência: Uma Sinfonia de Prompts Avançados ✨
 
@@ -55,11 +57,11 @@ Explore a profundidade técnica de cada prompt, entendendo o desafio, a estraté
 
 ---
 
-#### 2. 🧠 Prompt Otimizado para Extração Máxima de Perguntas e Pedidos 
+#### 2. 🧠 Prompt Otimizado para Extração Máxima de Perguntas e Pedidos
 
 * **O Desafio:** Desenvolver um meta-prompt que instrua a IA (simulando Grok) a compreender profundamente, refinar, executar e otimizar suas próprias respostas para qualquer pedido do usuário, garantindo máxima precisão e utilidade, especialmente em contextos técnicos ou multifacetados.
 * **A Abordagem:** Este prompt emprega **Compreensão Profunda**, **Refinamento Iterativo do Pedido**, **Execução Contextualizada** e **Otimização Contínua para Excelência**. Ele capacita a IA a atuar como um "engenheiro de prompt" para si mesma, focando em fidelidade à intenção do usuário, clareza e adaptação de tom.
-* **Resultados Chave:** A IA é capaz de dividir pedidos complexos, propor critérios de avaliação, gerar conteúdo técnico e criativo de alta qualidade, e fornecer sugestões proativas para melhoria.
+* **Resultados Chave:** A IA é capaz de decompor pedidos complexos, propor critérios de avaliação, gerar conteúdo técnico e criativo de alta qualidade, e fornecer sugestões proativas para melhoria.
 * **Link para Análise Completa:** [Ver Detalhes Técnicos e Exemplos](./prompts/intelligent-response-grok/analysis.md)
 
 ---
@@ -72,4 +74,4 @@ LinkedIn: https://www.linkedin.com/in/juniorlirati/
 
 ---
 
-**© 2025 Júnior Lira. Todos os direitos reservados.** 
+**© 2025 Júnior Lira. Todos os direitos reservados.**
