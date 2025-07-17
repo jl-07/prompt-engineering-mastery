@@ -92,10 +92,8 @@ LinkedIn: https://www.linkedin.com/in/juniorlirati/
 © License
 MIT License
 
-🌟 Maestria em Engenharia de Prompts – Portfólio de Júnior Lira
 
-
-
+#🌟 Maestria em Engenharia de Prompts – Portfólio de Júnior Lira
 
 ✨ Modelando a Inteligência: Prompts Avançados para LLMs ✨
 
