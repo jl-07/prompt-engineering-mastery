@@ -25,49 +25,62 @@ In this portfolio, you will find the practical application of concepts such as:
 ### 📂 Portfolio Structure
 
 This repository is organized for easy exploration of each prompt and its technical analysis:
-
+```
 .
 ├── LICENSE
 ├── README.md
 └── prompts/
-├── intelligent-response/ # Prompt for optimizing AI interaction and response (meta-prompt)
-│ ├── intelligent response analysis.md
-│ ├── intelligent response output example 1.md
-│ └── intelligent-response.txt
-└── job-application-optimizer/ # Prompt for job analysis and application optimization (complex system)
-├── Job application optimizer analysis.md
-├── Job application optimizer output example 1.md
-└── job-application-optimizer prompt.txt
-
-yaml
-Copiar
-Editar
+    ├── intelligent-response/
+    │   ├── intelligent response analysis.md
+    │   ├── intelligent response output example 1.md
+    │   └── intelligent-response.txt
+    └── job-application-optimizer/
+        ├── Job application optimizer analysis.md
+        ├── Job application optimizer output example 1.md
+        └── job-application-optimizer prompt.txt
+```
 
 ---
 
 # 🎯 Projects and Detailed Analyses
 
-Explore the technical depth of each prompt, understanding the challenge, the applied engineering strategy, and the achieved results.
+Explore the technical depth of each prompt, understanding the challenge, the engineering strategy, and the results achieved.
 
 ---
 
-### 1. 🚀 ULTIMATE PROMPT MASTER — INTEGRATED ANALYSIS & APPLICATION SYSTEM v6.0
+## 1. 🚀 ULTIMATE PROMPT MASTER — INTEGRATED ANALYSIS & APPLICATION SYSTEM v6.0
 
-* **The Challenge:** Build a robust AI-based system to scientifically analyze job postings, optimize résumés for ATS, generate personalized cover letters, and map out application and networking strategies, while mitigating scam risks.
-* **The Approach:** This prompt uses a multifaceted methodology integrating **Chain-of-Thought** for deep analysis, **Self-Consistency** for anti-scam validation, **Multi-Criteria Analysis** for weighted scoring, and **Tree-of-Thoughts** for optimized materials and interview strategies. It turns the AI into a **SENIOR TECHNICAL RECRUITMENT SPECIALIST**.
-* **Key Results:** Generates quantitative compatibility analyses, classifies job risks, scores opportunities based on multiple criteria, and produces ultra-personalized application deliverables.
-* **Full Prompt:** [See prompt.txt file](./job-application-optimizer/job-application-optimizer%20prompt.txt)
-* **Technical Analysis:** [See technical details and examples](./job-application-optimizer/Job%20application%20optimizer%20analysis.md)
+- **Challenge:**  
+  Build a robust AI-based system to scientifically analyze job postings, optimize résumés for ATS, generate personalized cover letters, and design application and networking strategies, mitigating scam risks.
+
+- **Approach:**  
+  This prompt uses a multifaceted methodology: *Chain-of-Thought* for deep analysis, *Self-Consistency* for anti-scam validation, *Multi-Criteria Analysis* for weighted scoring, and *Tree-of-Thoughts* for optimized materials and interview strategies. It turns the AI into a **senior technical recruitment specialist**.
+
+- **Key Results:**  
+  Generates quantitative compatibility analyses, classifies job risks, scores opportunities based on multiple criteria, and produces ultra-personalized application deliverables.
+
+- **Full Prompt:**  
+  [See prompt.txt file](./job-application-optimizer/job-application-optimizer%20prompt.txt)
+- **Technical Analysis:**  
+  [See technical details and examples](./job-application-optimizer/job%20application%20optimizer%20analysis.md)
 
 ---
 
-### 2. 🧠 Optimized Prompt for Maximum Extraction of Questions and Requests
+## 2. 🧠 Optimized Prompt for Maximum Extraction of Questions and Requests
 
-* **The Challenge:** Develop a meta-prompt that instructs the AI (simulating Grok) to deeply understand, refine, execute, and optimize its own answers for any user request, ensuring maximum accuracy and usefulness, especially in technical or multifaceted contexts.
-* **The Approach:** This prompt applies **Deep Understanding**, **Iterative Request Refinement**, **Contextualized Execution**, and **Continuous Optimization for Excellence**. It enables the AI to act as a "prompt engineer" for itself, focusing on user intent fidelity, clarity, and tone adaptation.
-* **Key Results:** The AI can break down complex requests, propose evaluation criteria, generate high-quality technical and creative content, and proactively suggest improvements.
-* **Full Prompt:** [See prompt.txt file](./intelligent-response/intelligent-response.txt)
-* **Technical Analysis:** [See technical details and examples](./intelligent-response/intelligent%20response%20analysis.md)
+- **Challenge:**  
+  Develop a meta-prompt that instructs the AI (simulating Grok) to deeply understand, refine, execute, and optimize its answers for any user request, ensuring maximum accuracy and usefulness, especially for technical or multifaceted contexts.
+
+- **Approach:**  
+  Applies *Deep Understanding*, *Iterative Request Refinement*, *Contextualized Execution*, and *Continuous Optimization for Excellence*. Enables the AI to act as a "prompt engineer" for itself.
+
+- **Key Results:**  
+  The AI can break down complex requests, propose evaluation criteria, generate high-quality technical and creative content, and proactively suggest improvements.
+
+- **Full Prompt:**  
+  [See prompt.txt file](./intelligent-response/intelligent-response.txt)
+- **Technical Analysis:**  
+  [See technical details and examples](./intelligent-response/intelligent%20response%20analysis.md)
 
 ---
 
@@ -112,22 +125,20 @@ Neste portfólio, você encontra a aplicação prática de conceitos como:
 
 Este repositório está organizado para facilitar a exploração de cada prompt e sua análise técnica:
 
+```
 .
 ├── LICENSE
 ├── README.md
 └── prompts/
-├── intelligent-response/ # Prompt para otimização da interação e resposta da IA (meta-prompt)
-│ ├── intelligent response analysis.md
-│ ├── intelligent response output example 1.md
-│ └── intelligent-response.txt
-└── job-application-optimizer/ # Prompt para análise de vagas e otimização de candidaturas (sistema complexo)
-├── Job application optimizer analysis.md
-├── Job application optimizer output example 1.md
-└── job-application-optimizer prompt.txt
-
-yaml
-Copiar
-Editar
+    ├── intelligent-response/
+    │   ├── intelligent response analysis.md
+    │   ├── intelligent response output example 1.md
+    │   └── intelligent-response.txt
+    └── job-application-optimizer/
+        ├── Job application optimizer analysis.md
+        ├── Job application optimizer output example 1.md
+        └── job-application-optimizer prompt.txt
+```
 
 ---
 
@@ -137,25 +148,39 @@ Explore a profundidade técnica de cada prompt, compreendendo o desafio, a estra
 
 ---
 
-### 1. 🚀 PROMPT MASTER DEFINITIVO — SISTEMA INTEGRADO DE ANÁLISE E CANDIDATURA v6.0
+## 1. 🚀 PROMPT MASTER DEFINITIVO — SISTEMA INTEGRADO DE ANÁLISE E CANDIDATURA v6.0
 
-* **O Desafio:** Criar um sistema robusto baseado em IA para analisar cientificamente vagas de emprego, otimizar currículos para ATS, gerar cartas de apresentação personalizadas e traçar estratégias de candidatura e networking, mitigando riscos de golpes.
-* **A Abordagem:** Este prompt utiliza uma metodologia multifacetada que integra **Chain-of-Thought** para análise profunda, **Self-Consistency** para validação anti-golpe, **Multi-Criteria Analysis** para pontuação ponderada e **Tree-of-Thoughts** para geração de materiais otimizados e estratégias de entrevista. Transforma a IA em um **ESPECIALISTA SÊNIOR EM RECRUTAMENTO TÉCNICO**.
-* **Resultados Chave:** Gera análises quantitativas de compatibilidade, classifica riscos de vagas, pontua oportunidades com base em vários critérios e produz entregáveis de candidatura altamente personalizados.
-* **Prompt Completo:** [Ver arquivo prompt.txt](./job-application-optimizer/job-application-optimizer%20prompt.txt)
-* **Análise Técnica:** [Ver detalhes técnicos e exemplos](./job-application-optimizer/Job%20application%20optimizer%20analysis.md)
+- **Desafio:**  
+  Criar um sistema robusto baseado em IA para analisar vagas de emprego, otimizar currículos para ATS, gerar cartas de apresentação personalizadas e traçar estratégias de candidatura e networking, mitigando riscos de golpes.
 
----
+- **Abordagem:**  
+  Este prompt utiliza uma metodologia multifacetada: *Chain-of-Thought* para análise profunda, *Self-Consistency* para validação anti-golpe, *Multi-Criteria Analysis* para pontuação ponderada e *Tree-of-Thoughts* para geração de materiais otimizados e estratégias de entrevista. Transforma a IA em um **especialista sênior em recrutamento técnico**.
 
-### 2. 🧠 Prompt Otimizado para Extração Máxima de Perguntas e Pedidos
+- **Resultados Chave:**  
+  Gera análises quantitativas de compatibilidade, classifica riscos de vagas, pontua oportunidades com base em diversos critérios e produz entregáveis ultra-personalizados.
 
-* **O Desafio:** Desenvolver um meta-prompt que instrua a IA (simulando Grok) a compreender profundamente, refinar, executar e otimizar suas próprias respostas para qualquer pedido do usuário, garantindo máxima precisão e utilidade, especialmente em contextos técnicos ou multifacetados.
-* **A Abordagem:** Este prompt emprega **Compreensão Profunda**, **Refinamento Iterativo do Pedido**, **Execução Contextualizada** e **Otimização Contínua para Excelência**. Ele capacita a IA a atuar como um "engenheiro de prompt" para si mesma, focando em fidelidade à intenção do usuário, clareza e adaptação de tom.
-* **Resultados Chave:** A IA é capaz de decompor pedidos complexos, propor critérios de avaliação, gerar conteúdo técnico e criativo de alta qualidade, e sugerir melhorias de forma proativa.
-* **Prompt Completo:** [Ver arquivo prompt.txt](./intelligent-response/intelligent-response.txt)
-* **Análise Técnica:** [Ver detalhes técnicos e exemplos](./intelligent-response/intelligent%20response%20analysis.md)
+- **Prompt Completo:**  
+  [Ver arquivo prompt.txt](./job-application-optimizer/job-application-optimizer%20prompt.txt)
+- **Análise Técnica:**  
+  [Ver detalhes técnicos e exemplos](./job-application-optimizer/job%20application%20optimizer%20analysis.md)
 
 ---
+
+## 2. 🧠 Prompt Otimizado para Extração Máxima de Perguntas e Pedidos
+
+- **Desafio:**  
+  Desenvolver um meta-prompt que instrua a IA (simulando Grok) a compreender profundamente, refinar, executar e otimizar suas próprias respostas para qualquer pedido do usuário, garantindo máxima precisão e utilidade, especialmente em contextos técnicos ou multifacetados.
+
+- **Abordagem:**  
+  Aplica *Compreensão Profunda*, *Refinamento Iterativo do Pedido*, *Execução Contextualizada* e *Otimização Contínua para Excelência*. Capacita a IA a atuar como um "engenheiro de prompt" para si mesma.
+
+- **Resultados Chave:**  
+  A IA é capaz de decompor pedidos complexos, propor critérios de avaliação, gerar conteúdo técnico e criativo de alta qualidade, e sugerir melhorias proativamente.
+
+- **Prompt Completo:**  
+  [Ver arquivo prompt.txt](./intelligent-response/intelligent-response.txt)
+- **Análise Técnica:**  
+  [Ver detalhes técnicos e exemplos](./intelligent-response/intelligent%20response%20analysis.md)
 
 ### 🤝 Conecte-se
 
