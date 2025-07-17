@@ -65,7 +65,7 @@ This repository is organized for easy exploration of each prompt and its technic
   See [`job-application-optimizer prompt.txt`](prompts/job-application-optimizer/job-application-optimizer%20prompt.txt)
 
 - **Technical Analysis:**  
-  See [`Job application optimizer analysis.md`](prompts/job-application-optimizer/Job%20application%20optimizer%20analysis.md)
+  See [job application optimizer analysis.md](https://github.com/jl-07/prompt-engineering-mastery/blob/main/prompts/job-application-optimizer/job%20application%20optimizer%20analysis.md)
 
 - **Example Output:**  
   See [`Job application optimizer output example 1.md`](prompts/job-application-optimizer/Job%20application%20optimizer%20output%20example%201.md)
