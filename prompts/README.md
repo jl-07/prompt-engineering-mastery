@@ -48,6 +48,12 @@ Explore a profundidade técnica de cada prompt, compreendendo o desafio, a estra
 
 ---
 
+# 🎯 Projetos e Análises Detalhadas
+
+Explore a profundidade técnica de cada prompt, compreendendo o desafio, a estratégia de engenharia aplicada e os resultados alcançados.
+
+---
+
 ### 1. 🚀 PROMPT MASTER DEFINITIVO - SISTEMA INTEGRADO DE ANÁLISE E CANDIDATURA v6.0
 
 * **O Desafio:** Criar um sistema robusto baseado em IA para analisar cientificamente vagas de emprego, otimizar currículos para ATS, gerar cartas de apresentação personalizadas e traçar estratégias de candidatura e networking, mitigando riscos de golpes.
@@ -65,11 +71,6 @@ Explore a profundidade técnica de cada prompt, compreendendo o desafio, a estra
 * **Resultados Chave:** A IA é capaz de decompor pedidos complexos, propor critérios de avaliação, gerar conteúdo técnico e criativo de alta qualidade, e fornecer sugestões proativas para melhoria.
 * **Prompt Completo:** [Ver arquivo prompt.txt](./intelligent-response/intelligent%20response.txt)
 * **Análise Técnica:** [Ver Detalhes Técnicos e Exemplos](./intelligent-response/intelligent%20response%20analysis.md)
-
-Fico à disposição para discussões sobre engenharia de prompts, colaborações ou desafios técnicos. Sinta-se à vontade para explorar os prompts, testá-los e compartilhar seu feedback.
-
-LinkedIn: https://www.linkedin.com/in/juniorlirati/
-
 ---
 
 **© 2025 Júnior Lira. Todos os direitos reservados.**
