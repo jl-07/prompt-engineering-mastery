@@ -44,8 +44,7 @@
 
 ## 📂 Portfolio Structure
 
-```text
-.
+```.
 ├── LICENSE
 ├── README.md
 └── prompts/
@@ -57,3 +56,37 @@
         ├── analysis.md
         ├── output-example-1.md
         └── prompt.txt
+```
+
+🎯 Projects & Analyses
+🚀 Integrated Job Application & Analysis System (v6.0)
+Prompt: View Prompt
+
+Example Output: View Example
+
+Technical Analysis: See Details
+
+🧠 Optimized Prompt for Maximum Question and Request Extraction
+Prompt: View Prompt
+
+Example Output: View Example
+
+Technical Analysis: See Details
+
+🚀 Roadmap / Next Steps
+Visual demos (GIFs/videos) of key features
+
+Interactive API docs (Swagger UI)
+
+Full automated tests
+
+Production deployment of API examples
+
+AI metrics: accuracy, hallucination reduction, token/cost optimization, UX improvement
+
+🤝 Contact
+Open to discussions, collaborations, and technical challenges.
+LinkedIn: https://www.linkedin.com/in/juniorlirati/
+
+© License
+MIT License
