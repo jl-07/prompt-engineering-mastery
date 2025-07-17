@@ -1,4 +1,4 @@
-# 🌟 Prompt Engineering Mastery: Júnior Lira’s Portfolio 🌟
+#  Prompt Engineering Mastery: Júnior Lira’s Portfolio 
 
 ## ✨ Shaping Intelligence: A Symphony of Advanced Prompts ✨
 
