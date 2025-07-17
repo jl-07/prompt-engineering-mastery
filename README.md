@@ -44,7 +44,7 @@
 
 ## 📂 Portfolio Structure
 
-```
+```text
 .
 ├── LICENSE
 ├── README.md
