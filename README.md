@@ -1,6 +1,8 @@
-#  Prompt Engineering Mastery: Júnior Lira’s Portfolio 
+# 🌟 Prompt Engineering Mastery – Júnior Lira's Portfolio
 
-## ✨ Shaping Intelligence: A Symphony of Advanced Prompts ✨
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/docs/api-reference)
+[![Markdown](https://img.shields.io/badge/Made%20with-Markdown-000000.svg?style=for-the-badge)](https://www.markdownguide.org/)
 
 Welcome to my Prompt Engineering portfolio. This repository is a hands-on demonstration of my expertise in designing optimized instructions for Large Language Models (LLMs). Here, complex challenges meet elegant solutions, turning intentions into precise and impactful results.
 
