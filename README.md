@@ -1,5 +1,4 @@
-
-
+-----
 
 ```markdown
 # 🌟 Prompt Engineering Mastery: Portfólio de Júnior Lira 🌟
@@ -49,11 +48,11 @@ Este repositório está organizado para facilitar a exploração de cada prompt 
 ├── LICENSE
 ├── README.md
 └── prompts/
-├── intelligent-response-grok/ \# Prompt para a otimização da interação e resposta da IA (meta-prompt)
+├── intelligent-response-grok/  \# Prompt para a otimização da interação e resposta da IA (meta-prompt)
 │   ├── analysis.md
 │   ├── output-example-1.md
 │   └── prompt.txt
-└── job-application-optimizer/ \# Prompt para o análise de vacantes e otimização de candidaturas (sistema complexo)
+└── job-application-optimizer/  \# Prompt para o análise de vacantes e otimização de candidaturas (sistema complexo)
 ├── analysis.md
 ├── output-example-1.md
 └── prompt.txt
@@ -75,10 +74,10 @@ Explore a profundidade técnica de cada prompt, compreendendo o desafio, a estra
         job vacancies, optimize resumes, generate cover letters, and strategize
         job applications. Begin by analyzing the provided job description...
         ```
-        [Ver Prompt Completo](link-to-job-application-optimizer-prompt.txt)
+        [Ver Prompt Completo](prompts/job-application-optimizer/prompt.txt)
     * **A Abordagem:** Este prompt utiliza uma metodologia multifacetada que integra **Chain-of-Thought** para um análise profunda, **Self-Consistency** para validação anti-estafa, **Multi-Criteria Analysis** para pontuação ponderada e **Tree-of-Thoughts** para a geração de materiais otimizados e estratégias de entrevista. Ele transforma a IA em um **ESPECIALISTA SÊNIOR EM RECRUTAMENTO TÉCNICO**.
     * **Resultados Chave:** Gera análises de compatibilidade quantitativas, classifica riscos de vagas, pontua oportunidades baseando-se em diversos critérios e produz entregáveis de candidatura ultra-personalizados.
-    * **Link para Análise Completa:** [Ver Detalhes Técnicos e Exemplos](link-to-job-application-optimizer-analysis.md)
+    * **Link para Análise Completa:** [Ver Detalhes Técnicos e Exemplos](prompts/job-application-optimizer/analysis.md)
 
 2.  🧠 **Prompt Otimizado para Máxima Extração de Perguntas e Pedidos**
 
@@ -89,10 +88,10 @@ Explore a profundidade técnica de cada prompt, compreendendo o desafio, a estra
         Your primary function is to act as an advanced AI assistant, deeply understanding
         and optimizing your responses to any user request.
         ```
-        [Ver Prompt Completo](link-to-intelligent-response-grok-prompt.txt)
+        [Ver Prompt Completo](prompts/intelligent-response-grok/prompt.txt)
     * **A Abordagem:** Este prompt emprega **Compreensão Profunda**, **Refinamento Iterativo da Solicitação**, **Execução Contextualizada** e **Otimização Contínua para a Excelência**. Ele capacita a IA a atuar como um "engenheiro de prompts" para si mesma, focando em fidelidade à intenção do usuário, clareza e adaptação do tom.
-    * **Resultados Chave:** A IA é capaz de desglosar solicitações complexas, propor critérios de avaliação, gerar conteúdo técnico e criativo de alta qualidade, e fornecer sugestões proativas para a melhoria.
-    * **Link para Análise Completa:** [Ver Detalhes Técnicos e Exemplos](link-to-intelligent-response-grok-analysis.md)
+    * **Resultados Chave:** A IA é capaz de decompor solicitações complexas, propor critérios de avaliação, gerar conteúdo técnico e criativo de alta qualidade, e fornecer sugestões proativas para a melhoria.
+    * **Link para Análise Completa:** [Ver Detalhes Técnicos e Exemplos](prompts/intelligent-response-grok/analysis.md)
 
 ---
 
@@ -138,7 +137,6 @@ Este projeto está licenciado sob a Licença MIT.
 ---
 
 ### **English (Complete and Consolidated Version)**
-
 ```markdown
 # 🌟 Prompt Engineering Mastery: Júnior Lira's Portfolio 🌟
 
@@ -187,11 +185,11 @@ This repository is organized to facilitate the exploration of each prompt and it
 ├── LICENSE
 ├── README.md
 └── prompts/
-├── intelligent-response-grok/ \# Prompt for optimizing AI interaction and response (meta-prompt)
+├── intelligent-response-grok/  \# Prompt for optimizing AI interaction and response (meta-prompt)
 │   ├── analysis.md
 │   ├── output-example-1.md
 │   └── prompt.txt
-└── job-application-optimizer/ \# Prompt for job analysis and application optimization (complex system)
+└── job-application-optimizer/  \# Prompt for job analysis and application optimization (complex system)
 ├── analysis.md
 ├── output-example-1.md
 └── prompt.txt
@@ -204,7 +202,7 @@ This repository is organized to facilitate the exploration of each prompt and it
 
 Explore the technical depth of each prompt, understanding the challenge, the applied engineering strategy, and the results achieved.
 
-1.  🚀 **DEFINITIVE PROMPT MASTER - INTEGRATED APPLICATION AND ANALYSIS SYSTEM v6.0**
+1.  🚀 **ULTIMATE PROMPT MASTER - INTEGRATED APPLICATION AND ANALYSIS SYSTEM v6.0**
 
     * **The Challenge:** To create a robust AI-powered system for scientifically analyzing job vacancies, optimizing resumes for ATS, generating personalized cover letters, and strategizing job applications and networking, while mitigating scam risks.
     * **Prompt Example:**
@@ -213,10 +211,10 @@ Explore the technical depth of each prompt, understanding the challenge, the app
         job vacancies, optimize resumes, generate cover letters, and strategize
         job applications. Begin by analyzing the provided job description...
         ```
-        [View Full Prompt](link-to-job-application-optimizer-prompt.txt)
+        [View Full Prompt](prompts/job-application-optimizer/prompt.txt)
     * **The Approach:** This prompt utilizes a multifaceted methodology that integrates **Chain-of-Thought** for deep analysis, **Self-Consistency** for anti-scam validation, **Multi-Criteria Analysis** for weighted scoring, and **Tree-of-Thoughts** for generating optimized application materials and interview strategies. It transforms the AI into a **SENIOR TECHNICAL RECRUITMENT SPECIALIST**.
     * **Key Results:** Generates quantitative compatibility analyses, classifies job risk, scores opportunities based on diverse criteria, and produces ultra-personalized application deliverables.
-    * **Link to Full Analysis:** [See Technical Details and Examples](link-to-job-application-optimizer-analysis.md)
+    * **Link to Full Analysis:** [See Technical Details and Examples](prompts/job-application-optimizer/analysis.md)
 
 2.  🧠 **Optimized Prompt for Maximum Question and Request Extraction**
 
@@ -227,10 +225,10 @@ Explore the technical depth of each prompt, understanding the challenge, the app
         Your primary function is to act as an advanced AI assistant, deeply understanding
         and optimizing your responses to any user request.
         ```
-        [View Full Prompt](link-to-intelligent-response-grok-prompt.txt)
+        [View Full Prompt](prompts/intelligent-response-grok/prompt.txt)
     * **The Approach:** This prompt employs **Deep Understanding**, **Iterative Request Refinement**, **Contextualized Execution**, and **Continuous Optimization for Excellence**. It empowers the AI to act as a "prompt engineer" for itself, focusing on fidelity to user intent, clarity, and tone adaptation.
     * **Key Results:** The AI is capable of breaking down complex requests, proposing evaluation criteria, generating high-quality technical and creative content, and providing proactive suggestions for improvement.
-    * **Link to Full Analysis:** [See Technical Details and Examples](link-to-intelligent-response-grok-analysis.md)
+    * **Link to Full Analysis:** [See Technical Details and Examples](prompts/intelligent-response-grok/analysis.md)
 
 ---
 
@@ -271,9 +269,11 @@ I am available for discussions on prompt engineering, collaborations, or technic
 ### © **License**
 
 This project is licensed under the MIT License.
+````
 
----
----
+-----
+
+-----
 
 ### **Español (Versión Completa y Consolidada)**
 
@@ -319,17 +319,17 @@ En este portafolio, encontrarás la aplicación práctica de conceptos como:
 
 Este repositorio está organizado para facilitar la exploración de cada prompt y su análisis técnico:
 
-````
+```
 
 .
 ├── LICENSE
 ├── README.md
 └── prompts/
-├── intelligent-response-grok/ \# Prompt para la optimización de la interacción y respuesta de la IA (meta-prompt)
+├── intelligent-response-grok/  \# Prompt para la optimización de la interacción y respuesta de la IA (meta-prompt)
 │   ├── analysis.md
 │   ├── output-example-1.md
 │   └── prompt.txt
-└── job-application-optimizer/ \# Prompt para el análisis de vacantes y optimización de candidaturas (sistema complejo)
+└── job-application-optimizer/  \# Prompt para el análisis de vacantes y optimización de candidaturas (sistema complejo)
 ├── analysis.md
 ├── output-example-1.md
 └── prompt.txt
@@ -351,10 +351,10 @@ Explora la profundidad técnica de cada prompt, comprendiendo el desafío, la es
         job vacancies, optimize resumes, generate cover letters, and strategize
         job applications. Begin by analyzing the provided job description...
         ```
-        [Ver Prompt Completo](link-to-job-application-optimizer-prompt.txt)
+        [Ver Prompt Completo](prompts/job-application-optimizer/prompt.txt)
     * **El Enfoque:** Este prompt utiliza una metodología multifacética que integra **Chain-of-Thought** para un análisis profundo, **Self-Consistency** para validación anti-estafa, **Multi-Criteria Analysis** para puntuación ponderada y **Tree-of-Thoughts** para la generación de materiales optimizados y estrategias de entrevista. Transforma a la IA en un **ESPECIALISTA SENIOR EN RECLUTAMIENTO TÉCNICO**.
     * **Resultados Clave:** Genera análisis de compatibilidad cuantitativos, clasifica riesgos de vacantes, puntúa oportunidades basándose en diversos criterios y produce entregables de candidatura ultra-personalizados.
-    * **Enlace al Análisis Completo:** [Ver Detalles Técnicos y Ejemplos](link-to-job-application-optimizer-analysis.md)
+    * **Enlace al Análisis Completo:** [Ver Detalles Técnicos y Ejemplos](prompts/job-application-optimizer/analysis.md)
 
 2.  🧠 **Prompt Optimizado para Máxima Extracción de Preguntas y Solicitudes**
 
@@ -365,10 +365,10 @@ Explora la profundidad técnica de cada prompt, comprendiendo el desafío, la es
         Your primary function is to act as an advanced AI assistant, deeply understanding
         and optimizing your responses to any user request.
         ```
-        [Ver Prompt Completo](link-to-intelligent-response-grok-prompt.txt)
+        [Ver Prompt Completo](prompts/intelligent-response-grok/prompt.txt)
     * **El Enfoque:** Este prompt emplea **Comprensión Profunda**, **Refinamiento Iterativo de la Solicitud**, **Ejecución Contextualizada** y **Optimización Continua para la Excelencia**. Capacita a la IA para actuar como un "ingeniero de prompts" para sí misma, centrándose en la fidelidad a la intención del usuario, la claridad y la adaptación del tono.
     * **Resultados Clave:** La IA es capaz de desglosar solicitudes complejas, proponer criterios de evaluación, generar contenido técnico y creativo de alta calidad, y proporcionar sugerencias proactivas para la mejora.
-    * **Enlace al Análisis Completo:** [Ver Detalles Técnicos y Ejemplos](link-to-intelligent-response-grok-analysis.md)
+    * **Enlace al Análisis Completo:** [Ver Detalles Técnicos y Ejemplos](prompts/intelligent-response-grok/analysis.md)
 
 ---
 
@@ -409,6 +409,4 @@ Estoy disponible para discusiones sobre ingeniería de prompts, colaboraciones o
 ### © **Licencia**
 
 Este proyecto está licenciado bajo la Licencia MIT.
-
----
 ````
