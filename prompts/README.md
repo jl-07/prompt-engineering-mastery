@@ -69,8 +69,7 @@ Explore a profundidade técnica de cada prompt, compreendendo o desafio, a estra
 * **O Desafio:** Desenvolver um meta-prompt que instrui a IA (simulando Grok) a compreender profundamente, refinar, executar e otimizar suas próprias respostas para qualquer pedido do usuário, garantindo máxima precisão e utilidade, especialmente em contextos técnicos ou multifacetados.
 * **A Abordagem:** Este prompt emprega **Compreensão Profunda**, **Refinamento Iterativo do Pedido**, **Execução Contextualizada** e **Otimização Contínua para Excelência**. Ele capacita a IA a atuar como um "engenheiro de prompt" para si mesma, focando em fidelidade à intenção do usuário, clareza e adaptação de tom.
 * **Resultados Chave:** A IA é capaz de decompor pedidos complexos, propor critérios de avaliação, gerar conteúdo técnico e criativo de alta qualidade, e fornecer sugestões proativas para melhoria.
-* **Prompt Completo:** [Ver arquivo prompt.txt](./intelligent-response/intelligent%20response.txt)
+* **Prompt Completo:** [Ver arquivo prompt.txt](./intelligent-response/intelligent-response.txt)
 * **Análise Técnica:** [Ver Detalhes Técnicos e Exemplos](./intelligent-response/intelligent%20response%20analysis.md)
----
 
 **© 2025 Júnior Lira. Todos os direitos reservados.**
