@@ -53,7 +53,7 @@ Explore a profundidade técnica de cada prompt, compreendendo o desafio, a estra
 * **O Desafio:** Criar um sistema robusto baseado em IA para analisar cientificamente vagas de emprego, otimizar currículos para ATS, gerar cartas de apresentação personalizadas e traçar estratégias de candidatura e networking, mitigando riscos de golpes.
 * **A Abordagem:** Este prompt utiliza uma metodologia multifacetada que integra **Chain-of-Thought** para análise profunda, **Self-Consistency** para validação anti-golpe, **Multi-Criteria Analysis** para pontuação ponderada e **Tree-of-Thoughts** para geração de materiais otimizados e estratégias de entrevista. Ele transforma a IA em um **ESPECIALISTA SÊNIOR EM RECRUTAMENTO TÉCNICO**.
 * **Resultados Chave:** Gera análises de compatibilidade quantitativas, classifica riscos de vagas, pontua oportunidades com base em diversos critérios e produz deliverables de candidatura ultra-personalizados.
-* **Prompt Completo:** [Ver arquivo prompt.txt](./job-application-optimizer/job%20application%20optimizer%20prompt.txt)
+* **Prompt Completo:** [Ver arquivo prompt.txt](./job-application-optimizer/job-application-optimizer%20prompt.txt)
 * **Análise Técnica:** [Ver Detalhes Técnicos e Exemplos](./job-application-optimizer/job%20application%20optimizer%20analysis.md)
 
 ---
