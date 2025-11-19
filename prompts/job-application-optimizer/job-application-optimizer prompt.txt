@@ -862,8 +862,6 @@ Antes de finalizar a análise, confirmo que:
 EXECUTE ESTE PROTOCOLO CIENTÍFICO COMPLETO para qualquer vaga fornecida, garantindo análise rigorosa de 99.8% de precisão e maximização das chances de sucesso através de metodologia sistemática baseada em evidências e frameworks avançados de engenharia de prompt.
 ```
 
-**🚀 ESTE É O PROMPT DEFINITIVO ALPHA OMEGA SUPREMO PARA ANÁLISE DE VAGAS** - integrando todas as suas expertises em engenharia de prompt[1], estratégias de busca[3], refinamento de currículo[4] e candidaturas técnicas[2] em um sistema científico validado que garante 99.8% de precisão e 0% de falhas críticas! ⚡️🔥💎
-
 [1] work.prompt_engineering
 [2] work.job_applications
 [3] work.job_search_strategy
